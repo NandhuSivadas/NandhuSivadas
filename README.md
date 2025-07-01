@@ -5,7 +5,7 @@
 </div>
 
 ---
-
+![Profile views](https://komarev.com/ghpvc/?username=NandhuSivadas&style=flat&label=Profile%20views)
 ### 👋 About Me
 > **"Code is not just a career; it's a passion!"**
 
