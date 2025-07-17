@@ -142,11 +142,19 @@ const currentGoals = {
 
 <div align="center">
   
+  ### 📱 **Social & Professional**
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandhucsivadhas@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandhucsivadas/)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NandhuSivadas)
   
-  <br/><br/>
+  ### 💻 **Coding Platforms**
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/QU61mFgJk6/)
+  [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/nandhucsivadas)
+  
+  <br/>
+  
+  
+  <br/>
   
   ### 💬 **"Innovation happens when passionate minds collaborate!"**
   
